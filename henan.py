@@ -56,7 +56,3 @@ if __name__ == '__main__':
     for i in range(1, 2):
         main(i)
         time.sleep(0.1)
-
-for i in range(1, 60):
-    main(i)
-    time.sleep(0.1)
